@@ -74,3 +74,4 @@ export EMAIL_TO="you@gmail.com"
 export GMAIL_APP_PWD="xxxx xxxx xxxx xxxx"
 python tracker.py
 ```
+# netflix-tracker
