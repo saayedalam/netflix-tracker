@@ -1,1 +1,148 @@
-{}
+{
+  "movies": [
+    {
+      "rank": 1,
+      "title": "Thrash",
+      "category": "Films",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 2,
+      "title": "Striking Distance",
+      "category": "Films",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 3,
+      "title": "The Truth and Tragedy of Moriah Wilson",
+      "category": "Films",
+      "weeks": "2",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 4,
+      "title": "Untold: Chess Mates",
+      "category": "Films",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 5,
+      "title": "Untold: The Death & Life of Lamar Odom",
+      "category": "Films",
+      "weeks": "2",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 6,
+      "title": "The Break-Up",
+      "category": "Films",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 7,
+      "title": "In the Heart of the Sea",
+      "category": "Films",
+      "weeks": "2",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 8,
+      "title": "KPop Demon Hunters",
+      "category": "Films",
+      "weeks": "42",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 9,
+      "title": "Feel My Voice",
+      "category": "Films",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 10,
+      "title": "War Machine",
+      "category": "Films",
+      "weeks": "6",
+      "week": "2026-04-12"
+    }
+  ],
+  "tv": [
+    {
+      "rank": 1,
+      "title": "Trust Me: The False Prophet",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 2,
+      "title": "Danny Go!",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 3,
+      "title": "Big Mistakes",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 4,
+      "title": "Love on the Spectrum",
+      "category": "TV",
+      "weeks": "2",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 5,
+      "title": "XO, Kitty",
+      "category": "TV",
+      "weeks": "2",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 6,
+      "title": "The Cleaning Lady",
+      "category": "TV",
+      "weeks": "2",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 7,
+      "title": "Raw",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 8,
+      "title": "Temptation Island",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 9,
+      "title": "WWE SmackDown",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-04-12"
+    },
+    {
+      "rank": 10,
+      "title": "The Cleaning Lady",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-04-12"
+    }
+  ],
+  "week": "2026-04-12",
+  "fetched_at": "2026-04-21T20:59:16.316920+00:00"
+}
