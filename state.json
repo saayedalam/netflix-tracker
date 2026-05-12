@@ -4,145 +4,145 @@
       "rank": 1,
       "title": "Apex",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-04-26"
+      "weeks": "2",
+      "week": "2026-05-03"
     },
     {
       "rank": 2,
-      "title": "The Beekeeper",
+      "title": "Despicable Me 4",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-04-26"
+      "weeks": "1",
+      "week": "2026-05-03"
     },
     {
       "rank": 3,
-      "title": "Roommates",
+      "title": "King Arthur: Legend of the Sword",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-04-26"
+      "weeks": "1",
+      "week": "2026-05-03"
     },
     {
       "rank": 4,
-      "title": "Untold: The Shooting at Hawthorne Hill",
+      "title": "Swapped",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 5,
-      "title": "The Longest Yard",
+      "title": "The Beekeeper",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-04-26"
+      "weeks": "3",
+      "week": "2026-05-03"
     },
     {
       "rank": 6,
-      "title": "180",
+      "title": "Twisted",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 7,
-      "title": "Thrash",
+      "title": "Roommates",
       "category": "Films",
       "weeks": "3",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 8,
-      "title": "Twisted",
+      "title": "You, Always",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 9,
-      "title": "The Bikeriders",
+      "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 10,
-      "title": "Rockyâs Cat-astrophe",
+      "title": "Afraid",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-04-26"
+      "weeks": "1",
+      "week": "2026-05-03"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Unchosen",
+      "title": "Should I Marry A Murderer?",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 2,
       "title": "Running Point",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-04-26"
+      "weeks": "2",
+      "week": "2026-05-03"
     },
     {
       "rank": 3,
-      "title": "The Hunting Wives",
+      "title": "Man on Fire",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 4,
-      "title": "Hulk Hogan: Real American",
+      "title": "Unchosen",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-04-26"
+      "weeks": "2",
+      "week": "2026-05-03"
     },
     {
       "rank": 5,
-      "title": "BEEF",
+      "title": "Hulk Hogan: Real American",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-04-26"
+      "weeks": "2",
+      "week": "2026-05-03"
     },
     {
       "rank": 6,
-      "title": "Million Dollar Secret",
+      "title": "The Hunting Wives",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 7,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
     },
     {
       "rank": 8,
-      "title": "This Is a Gardening Show",
+      "title": "Million Dollar Secret",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-04-26"
+      "weeks": "3",
+      "week": "2026-05-03"
     },
     {
       "rank": 9,
-      "title": "Trust Me: The False Prophet",
-      "category": "TV",
-      "weeks": "3",
-      "week": "2026-04-26"
-    },
-    {
-      "rank": 10,
       "title": "WWE SmackDown",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-04-26"
+      "week": "2026-05-03"
+    },
+    {
+      "rank": 10,
+      "title": "BEEF",
+      "category": "TV",
+      "weeks": "2",
+      "week": "2026-05-03"
     }
   ],
-  "week": "2026-04-26",
-  "fetched_at": "2026-05-05T15:54:27.224636+00:00"
+  "week": "2026-05-03",
+  "fetched_at": "2026-05-12T16:18:56.009043+00:00"
 }
