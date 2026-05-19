@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Apex",
+      "title": "Swapped",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-05-03"
+      "week": "2026-05-10"
     },
     {
       "rank": 2,
-      "title": "Despicable Me 4",
+      "title": "Remarkably Bright Creatures",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-05-03"
+      "week": "2026-05-10"
     },
     {
       "rank": 3,
-      "title": "King Arthur: Legend of the Sword",
+      "title": "Apex",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-03"
+      "weeks": "3",
+      "week": "2026-05-10"
     },
     {
       "rank": 4,
-      "title": "Swapped",
+      "title": "Despicable Me 4",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-03"
+      "weeks": "2",
+      "week": "2026-05-10"
     },
     {
       "rank": 5,
-      "title": "The Beekeeper",
+      "title": "It Ends With Us",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-05-03"
+      "weeks": "1",
+      "week": "2026-05-10"
     },
     {
       "rank": 6,
-      "title": "Twisted",
+      "title": "King Arthur: Legend of the Sword",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-05-03"
+      "week": "2026-05-10"
     },
     {
       "rank": 7,
-      "title": "Roommates",
+      "title": "My Dearest Assassin",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-05-03"
+      "weeks": "1",
+      "week": "2026-05-10"
     },
     {
       "rank": 8,
       "title": "You, Always",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-03"
+      "weeks": "2",
+      "week": "2026-05-10"
     },
     {
       "rank": 9,
-      "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+      "title": "The Beekeeper",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-03"
+      "weeks": "4",
+      "week": "2026-05-10"
     },
     {
       "rank": 10,
-      "title": "Afraid",
+      "title": "It Takes Two",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-03"
+      "weeks": "4",
+      "week": "2026-05-10"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Should I Marry A Murderer?",
+      "title": "Worst Ex Ever",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-03"
+      "week": "2026-05-10"
     },
     {
       "rank": 2,
-      "title": "Running Point",
+      "title": "Should I Marry A Murderer?",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-05-03"
+      "week": "2026-05-10"
     },
     {
       "rank": 3,
       "title": "Man on Fire",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-05-03"
+      "weeks": "2",
+      "week": "2026-05-10"
     },
     {
       "rank": 4,
-      "title": "Unchosen",
+      "title": "Running Point",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-05-03"
+      "weeks": "3",
+      "week": "2026-05-10"
     },
     {
       "rank": 5,
-      "title": "Hulk Hogan: Real American",
+      "title": "Backlash",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-05-03"
+      "weeks": "1",
+      "week": "2026-05-10"
     },
     {
       "rank": 6,
-      "title": "The Hunting Wives",
-      "category": "TV",
-      "weeks": "2",
-      "week": "2026-05-03"
-    },
-    {
-      "rank": 7,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-03"
+      "week": "2026-05-10"
+    },
+    {
+      "rank": 7,
+      "title": "Funny AF with Kevin Hart",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-05-10"
     },
     {
       "rank": 8,
-      "title": "Million Dollar Secret",
+      "title": "Legends",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-05-03"
+      "weeks": "1",
+      "week": "2026-05-10"
     },
     {
       "rank": 9,
-      "title": "WWE SmackDown",
+      "title": "The Roast of Kevin Hart",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-03"
+      "week": "2026-05-10"
     },
     {
       "rank": 10,
-      "title": "BEEF",
+      "title": "Funny AF with Kevin Hart",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-05-03"
+      "weeks": "1",
+      "week": "2026-05-10"
     }
   ],
-  "week": "2026-05-03",
-  "fetched_at": "2026-05-12T16:18:56.009043+00:00"
+  "week": "2026-05-10",
+  "fetched_at": "2026-05-19T16:50:19.362629+00:00"
 }
