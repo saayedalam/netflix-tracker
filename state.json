@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Remarkably Bright Creatures",
+      "title": "The Crash",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-05-17"
+      "week": "2026-05-24"
     },
     {
       "rank": 2,
-      "title": "The Crash",
+      "title": "Ladies First",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-05-17"
+      "week": "2026-05-24"
     },
     {
       "rank": 3,
-      "title": "Swapped",
+      "title": "In Her Shoes",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-05-17"
+      "weeks": "1",
+      "week": "2026-05-24"
     },
     {
       "rank": 4,
-      "title": "It Ends With Us",
+      "title": "Twisters",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-05-17"
+      "week": "2026-05-24"
     },
     {
       "rank": 5,
-      "title": "Marty, Life Is Short",
+      "title": "Swapped",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-17"
+      "weeks": "4",
+      "week": "2026-05-24"
     },
     {
       "rank": 6,
-      "title": "Apex",
+      "title": "Remarkably Bright Creatures",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-05-17"
+      "weeks": "3",
+      "week": "2026-05-24"
     },
     {
       "rank": 7,
-      "title": "Novocaine",
+      "title": "Apex",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-17"
+      "weeks": "5",
+      "week": "2026-05-24"
     },
     {
       "rank": 8,
-      "title": "Despicable Me 4",
+      "title": "Novocaine",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-05-17"
+      "weeks": "2",
+      "week": "2026-05-24"
     },
     {
       "rank": 9,
-      "title": "Blood and Bone",
+      "title": "Despicable Me 4",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-17"
+      "weeks": "4",
+      "week": "2026-05-24"
     },
     {
       "rank": 10,
-      "title": "Twisters",
+      "title": "Marty, Life Is Short",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-17"
+      "weeks": "2",
+      "week": "2026-05-24"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "The Roast of Kevin Hart",
+      "title": "Perfect Match",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-05-17"
+      "week": "2026-05-24"
     },
     {
       "rank": 2,
-      "title": "Worst Ex Ever",
+      "title": "Nemesis",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-05-17"
+      "week": "2026-05-24"
     },
     {
       "rank": 3,
-      "title": "Perfect Match",
+      "title": "The Boroughs",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-17"
+      "week": "2026-05-24"
     },
     {
       "rank": 4,
-      "title": "Legends",
+      "title": "The Roast of Kevin Hart",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-05-17"
+      "weeks": "3",
+      "week": "2026-05-24"
     },
     {
       "rank": 5,
-      "title": "Nemesis",
+      "title": "Worst Ex Ever",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-05-17"
+      "weeks": "3",
+      "week": "2026-05-24"
     },
     {
       "rank": 6,
-      "title": "Man on Fire",
+      "title": "Berlin and the Lady with an Ermine",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-05-17"
+      "weeks": "1",
+      "week": "2026-05-24"
     },
     {
       "rank": 7,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-17"
+      "week": "2026-05-24"
     },
     {
       "rank": 8,
-      "title": "WWE SmackDown",
+      "title": "Desi Bling",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-17"
+      "week": "2026-05-24"
     },
     {
       "rank": 9,
-      "title": "Should I Marry A Murderer?",
+      "title": "WWE SmackDown",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-05-17"
+      "weeks": "1",
+      "week": "2026-05-24"
     },
     {
       "rank": 10,
-      "title": "Running Point",
+      "title": "Legends",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-05-17"
+      "weeks": "3",
+      "week": "2026-05-24"
     }
   ],
-  "week": "2026-05-17",
-  "fetched_at": "2026-05-26T17:27:53.818256+00:00"
+  "week": "2026-05-24",
+  "fetched_at": "2026-06-02T18:05:50.146181+00:00"
 }
