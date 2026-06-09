@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "The Crash",
+      "title": "Ladies First",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-05-24"
+      "week": "2026-05-31"
     },
     {
       "rank": 2,
-      "title": "Ladies First",
+      "title": "The Crash",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-24"
+      "weeks": "3",
+      "week": "2026-05-31"
     },
     {
       "rank": 3,
-      "title": "In Her Shoes",
+      "title": "Get Hard",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-05-24"
+      "weeks": "3",
+      "week": "2026-05-31"
     },
     {
       "rank": 4,
-      "title": "Twisters",
+      "title": "Apex",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-05-24"
+      "weeks": "6",
+      "week": "2026-05-31"
     },
     {
       "rank": 5,
       "title": "Swapped",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-05-24"
+      "weeks": "5",
+      "week": "2026-05-31"
     },
     {
       "rank": 6,
       "title": "Remarkably Bright Creatures",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-05-24"
+      "weeks": "4",
+      "week": "2026-05-31"
     },
     {
       "rank": 7,
-      "title": "Apex",
+      "title": "Despicable Me 4",
       "category": "Films",
       "weeks": "5",
-      "week": "2026-05-24"
+      "week": "2026-05-31"
     },
     {
       "rank": 8,
-      "title": "Novocaine",
+      "title": "Untold UK: Vinnie Jones",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-05-24"
+      "weeks": "1",
+      "week": "2026-05-31"
     },
     {
       "rank": 9,
-      "title": "Despicable Me 4",
+      "title": "Snow White & the Huntsman",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-05-24"
+      "weeks": "1",
+      "week": "2026-05-31"
     },
     {
       "rank": 10,
-      "title": "Marty, Life Is Short",
+      "title": "In Her Shoes",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-05-24"
+      "week": "2026-05-31"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Perfect Match",
+      "title": "The Boroughs",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-05-24"
+      "week": "2026-05-31"
     },
     {
       "rank": 2,
-      "title": "Nemesis",
+      "title": "The Four Seasons",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-05-24"
+      "weeks": "1",
+      "week": "2026-05-31"
     },
     {
       "rank": 3,
-      "title": "The Boroughs",
+      "title": "Instadocs: Alex Murdaugh, Unconvicted",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-24"
+      "week": "2026-05-31"
     },
     {
       "rank": 4,
-      "title": "The Roast of Kevin Hart",
+      "title": "Perfect Match",
       "category": "TV",
       "weeks": "3",
-      "week": "2026-05-24"
+      "week": "2026-05-31"
     },
     {
       "rank": 5,
-      "title": "Worst Ex Ever",
+      "title": "WWE Clash at the Castle",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-05-24"
+      "weeks": "1",
+      "week": "2026-05-31"
     },
     {
       "rank": 6,
-      "title": "Berlin and the Lady with an Ermine",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-05-24"
-    },
-    {
-      "rank": 7,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-24"
+      "week": "2026-05-31"
+    },
+    {
+      "rank": 7,
+      "title": "Worst Ex Ever",
+      "category": "TV",
+      "weeks": "4",
+      "week": "2026-05-31"
     },
     {
       "rank": 8,
-      "title": "Desi Bling",
+      "title": "Bad Thoughts",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-24"
+      "week": "2026-05-31"
     },
     {
       "rank": 9,
-      "title": "WWE SmackDown",
+      "title": "Nemesis",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-05-24"
+      "weeks": "3",
+      "week": "2026-05-31"
     },
     {
       "rank": 10,
-      "title": "Legends",
+      "title": "WWE SmackDown",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-05-24"
+      "weeks": "1",
+      "week": "2026-05-31"
     }
   ],
-  "week": "2026-05-24",
-  "fetched_at": "2026-06-02T18:05:50.146181+00:00"
+  "week": "2026-05-31",
+  "fetched_at": "2026-06-09T16:31:56.547587+00:00"
 }
