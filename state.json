@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Ladies First",
+      "title": "Office Romance",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-05-31"
+      "weeks": "1",
+      "week": "2026-06-07"
     },
     {
       "rank": 2,
-      "title": "The Crash",
+      "title": "The Murder of Rachel Nickell",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-05-31"
+      "weeks": "1",
+      "week": "2026-06-07"
     },
     {
       "rank": 3,
-      "title": "Get Hard",
+      "title": "The Crash",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-05-31"
+      "weeks": "4",
+      "week": "2026-06-07"
     },
     {
       "rank": 4,
-      "title": "Apex",
+      "title": "Ladies First",
       "category": "Films",
-      "weeks": "6",
-      "week": "2026-05-31"
+      "weeks": "3",
+      "week": "2026-06-07"
     },
     {
       "rank": 5,
-      "title": "Swapped",
+      "title": "Jerry & Marge Go Large",
       "category": "Films",
-      "weeks": "5",
-      "week": "2026-05-31"
+      "weeks": "1",
+      "week": "2026-06-07"
     },
     {
       "rank": 6,
-      "title": "Remarkably Bright Creatures",
+      "title": "David",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-05-31"
+      "weeks": "1",
+      "week": "2026-06-07"
     },
     {
       "rank": 7,
-      "title": "Despicable Me 4",
+      "title": "Revolver",
       "category": "Films",
-      "weeks": "5",
-      "week": "2026-05-31"
+      "weeks": "1",
+      "week": "2026-06-07"
     },
     {
       "rank": 8,
-      "title": "Untold UK: Vinnie Jones",
+      "title": "Maa Behen",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-05-31"
+      "week": "2026-06-07"
     },
     {
       "rank": 9,
-      "title": "Snow White & the Huntsman",
+      "title": "The Marked Woman",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-05-31"
+      "week": "2026-06-07"
     },
     {
       "rank": 10,
-      "title": "In Her Shoes",
+      "title": "Despicable Me 4",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-05-31"
+      "weeks": "6",
+      "week": "2026-06-07"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "The Boroughs",
+      "title": "Michael Jackson: The Verdict",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-05-31"
+      "weeks": "1",
+      "week": "2026-06-07"
     },
     {
       "rank": 2,
-      "title": "The Four Seasons",
+      "title": "The Witness",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-31"
+      "week": "2026-06-07"
     },
     {
       "rank": 3,
-      "title": "Instadocs: Alex Murdaugh, Unconvicted",
+      "title": "The Four Seasons",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-05-31"
+      "weeks": "2",
+      "week": "2026-06-07"
     },
     {
       "rank": 4,
-      "title": "Perfect Match",
+      "title": "Instadocs: Alex Murdaugh, Unconvicted",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-05-31"
+      "weeks": "2",
+      "week": "2026-06-07"
     },
     {
       "rank": 5,
-      "title": "WWE Clash at the Castle",
+      "title": "The Boroughs",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-05-31"
+      "weeks": "3",
+      "week": "2026-06-07"
     },
     {
       "rank": 6,
-      "title": "Raw",
+      "title": "Lawmen: Bass Reeves",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-31"
+      "week": "2026-06-07"
     },
     {
       "rank": 7,
-      "title": "Worst Ex Ever",
+      "title": "Law & Order: Special Victims Unit",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-05-31"
+      "weeks": "1",
+      "week": "2026-06-07"
     },
     {
       "rank": 8,
-      "title": "Bad Thoughts",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-05-31"
-    },
-    {
-      "rank": 9,
-      "title": "Nemesis",
-      "category": "TV",
-      "weeks": "3",
-      "week": "2026-05-31"
-    },
-    {
-      "rank": 10,
       "title": "WWE SmackDown",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-05-31"
+      "week": "2026-06-07"
+    },
+    {
+      "rank": 9,
+      "title": "Raw",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-06-07"
+    },
+    {
+      "rank": 10,
+      "title": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-06-07"
     }
   ],
-  "week": "2026-05-31",
-  "fetched_at": "2026-06-09T16:31:56.547587+00:00"
+  "week": "2026-06-07",
+  "fetched_at": "2026-06-16T18:27:32.509094+00:00"
 }
