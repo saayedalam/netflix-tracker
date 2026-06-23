@@ -2,73 +2,73 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Office Romance",
+      "title": "Maternal Instinct",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-06-07"
+      "week": "2026-06-14"
     },
     {
       "rank": 2,
-      "title": "The Murder of Rachel Nickell",
+      "title": "Office Romance",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-07"
+      "weeks": "2",
+      "week": "2026-06-14"
     },
     {
       "rank": 3,
-      "title": "The Crash",
+      "title": "Jerry & Marge Go Large",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-06-07"
+      "weeks": "2",
+      "week": "2026-06-14"
     },
     {
       "rank": 4,
-      "title": "Ladies First",
+      "title": "Colors Of Evil: Black",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-06-07"
+      "weeks": "1",
+      "week": "2026-06-14"
     },
     {
       "rank": 5,
-      "title": "Jerry & Marge Go Large",
+      "title": "The Marked Woman",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-07"
+      "weeks": "2",
+      "week": "2026-06-14"
     },
     {
       "rank": 6,
-      "title": "David",
+      "title": "The Murder of Rachel Nickell",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-07"
+      "weeks": "2",
+      "week": "2026-06-14"
     },
     {
       "rank": 7,
-      "title": "Revolver",
+      "title": "Bhooth Bangla",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-06-07"
+      "week": "2026-06-14"
     },
     {
       "rank": 8,
-      "title": "Maa Behen",
+      "title": "Long Distance",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-06-07"
+      "week": "2026-06-14"
     },
     {
       "rank": 9,
-      "title": "The Marked Woman",
+      "title": "The Last Song",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-06-07"
+      "week": "2026-06-14"
     },
     {
       "rank": 10,
-      "title": "Despicable Me 4",
+      "title": "The Crash",
       "category": "Films",
-      "weeks": "6",
-      "week": "2026-06-07"
+      "weeks": "5",
+      "week": "2026-06-14"
     }
   ],
   "tv": [
@@ -76,73 +76,73 @@
       "rank": 1,
       "title": "Michael Jackson: The Verdict",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-07"
+      "weeks": "2",
+      "week": "2026-06-14"
     },
     {
       "rank": 2,
       "title": "The Witness",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-07"
+      "weeks": "2",
+      "week": "2026-06-14"
     },
     {
       "rank": 3,
-      "title": "The Four Seasons",
+      "title": "Outlast: The Jungle",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-06-07"
+      "weeks": "1",
+      "week": "2026-06-14"
     },
     {
       "rank": 4,
-      "title": "Instadocs: Alex Murdaugh, Unconvicted",
+      "title": "Teach You a Lesson",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-06-07"
+      "weeks": "1",
+      "week": "2026-06-14"
     },
     {
       "rank": 5,
-      "title": "The Boroughs",
+      "title": "The Four Seasons",
       "category": "TV",
       "weeks": "3",
-      "week": "2026-06-07"
+      "week": "2026-06-14"
     },
     {
       "rank": 6,
-      "title": "Lawmen: Bass Reeves",
+      "title": "Sweet Magnolias",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-07"
+      "week": "2026-06-14"
     },
     {
       "rank": 7,
-      "title": "Law & Order: Special Victims Unit",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-07"
-    },
-    {
-      "rank": 8,
-      "title": "WWE SmackDown",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-07"
-    },
-    {
-      "rank": 9,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-07"
+      "week": "2026-06-14"
+    },
+    {
+      "rank": 8,
+      "title": "Tony Hinchcliffe: Man of the People",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-06-14"
+    },
+    {
+      "rank": 9,
+      "title": "WWE SmackDown",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-06-14"
     },
     {
       "rank": 10,
-      "title": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
+      "title": "The Boroughs",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-07"
+      "weeks": "4",
+      "week": "2026-06-14"
     }
   ],
-  "week": "2026-06-07",
-  "fetched_at": "2026-06-16T18:27:32.509094+00:00"
+  "week": "2026-06-14",
+  "fetched_at": "2026-06-23T16:27:42.599421+00:00"
 }
