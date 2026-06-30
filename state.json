@@ -4,145 +4,145 @@
       "rank": 1,
       "title": "Maternal Instinct",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-14"
+      "weeks": "2",
+      "week": "2026-06-21"
     },
     {
       "rank": 2,
-      "title": "Office Romance",
+      "title": "Voicemails for Isabelle",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-06-14"
+      "weeks": "1",
+      "week": "2026-06-21"
     },
     {
       "rank": 3,
-      "title": "Jerry & Marge Go Large",
+      "title": "Office Romance",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-06-14"
+      "weeks": "3",
+      "week": "2026-06-21"
     },
     {
       "rank": 4,
-      "title": "Colors Of Evil: Black",
+      "title": "The Last Song",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-14"
+      "weeks": "2",
+      "week": "2026-06-21"
     },
     {
       "rank": 5,
-      "title": "The Marked Woman",
+      "title": "Jerry & Marge Go Large",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-06-14"
+      "weeks": "3",
+      "week": "2026-06-21"
     },
     {
       "rank": 6,
-      "title": "The Murder of Rachel Nickell",
+      "title": "Colors Of Evil: Black",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-06-14"
+      "week": "2026-06-21"
     },
     {
       "rank": 7,
-      "title": "Bhooth Bangla",
+      "title": "Long Distance",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-14"
+      "weeks": "2",
+      "week": "2026-06-21"
     },
     {
       "rank": 8,
-      "title": "Long Distance",
+      "title": "Bhooth Bangla",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-14"
+      "weeks": "2",
+      "week": "2026-06-21"
     },
     {
       "rank": 9,
-      "title": "The Last Song",
+      "title": "Despicable Me 4",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-14"
+      "weeks": "7",
+      "week": "2026-06-21"
     },
     {
       "rank": 10,
-      "title": "The Crash",
+      "title": "The Contractor",
       "category": "Films",
-      "weeks": "5",
-      "week": "2026-06-14"
+      "weeks": "1",
+      "week": "2026-06-21"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Michael Jackson: The Verdict",
+      "title": "I Will Find You",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-06-14"
+      "weeks": "1",
+      "week": "2026-06-21"
     },
     {
       "rank": 2,
-      "title": "The Witness",
+      "title": "Outlast: The Jungle",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-06-14"
+      "week": "2026-06-21"
     },
     {
       "rank": 3,
-      "title": "Outlast: The Jungle",
+      "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-14"
+      "week": "2026-06-21"
     },
     {
       "rank": 4,
-      "title": "Teach You a Lesson",
+      "title": "Sweet Magnolias",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-14"
+      "weeks": "2",
+      "week": "2026-06-21"
     },
     {
       "rank": 5,
-      "title": "The Four Seasons",
+      "title": "The Polygamist",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-06-14"
+      "weeks": "1",
+      "week": "2026-06-21"
     },
     {
       "rank": 6,
-      "title": "Sweet Magnolias",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-14"
-    },
-    {
-      "rank": 7,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-14"
+      "week": "2026-06-21"
+    },
+    {
+      "rank": 7,
+      "title": "Michael Jackson: The Verdict",
+      "category": "TV",
+      "weeks": "3",
+      "week": "2026-06-21"
     },
     {
       "rank": 8,
-      "title": "Tony Hinchcliffe: Man of the People",
+      "title": "Teach You a Lesson",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-14"
+      "weeks": "2",
+      "week": "2026-06-21"
     },
     {
       "rank": 9,
       "title": "WWE SmackDown",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-14"
+      "week": "2026-06-21"
     },
     {
       "rank": 10,
-      "title": "The Boroughs",
+      "title": "The Four Seasons",
       "category": "TV",
       "weeks": "4",
-      "week": "2026-06-14"
+      "week": "2026-06-21"
     }
   ],
-  "week": "2026-06-14",
-  "fetched_at": "2026-06-23T16:27:42.599421+00:00"
+  "week": "2026-06-21",
+  "fetched_at": "2026-06-30T16:23:35.408050+00:00"
 }
