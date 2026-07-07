@@ -2,73 +2,73 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Maternal Instinct",
+      "title": "Voicemails for Isabelle",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 2,
-      "title": "Voicemails for Isabelle",
+      "title": "Little Brother",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 3,
-      "title": "Office Romance",
+      "title": "Maternal Instinct",
       "category": "Films",
       "weeks": "3",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 4,
-      "title": "The Last Song",
+      "title": "The Vault",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-06-21"
+      "weeks": "5",
+      "week": "2026-06-28"
     },
     {
       "rank": 5,
-      "title": "Jerry & Marge Go Large",
+      "title": "PokÃ©mon Detective Pikachu",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-06-21"
+      "weeks": "1",
+      "week": "2026-06-28"
     },
     {
       "rank": 6,
-      "title": "Colors Of Evil: Black",
+      "title": "Borderlands",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-06-21"
+      "weeks": "1",
+      "week": "2026-06-28"
     },
     {
       "rank": 7,
-      "title": "Long Distance",
+      "title": "Black Mass",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-06-21"
+      "weeks": "1",
+      "week": "2026-06-28"
     },
     {
       "rank": 8,
-      "title": "Bhooth Bangla",
+      "title": "Office Romance",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-06-21"
+      "weeks": "4",
+      "week": "2026-06-28"
     },
     {
       "rank": 9,
-      "title": "Despicable Me 4",
+      "title": "Father Figures",
       "category": "Films",
-      "weeks": "7",
-      "week": "2026-06-21"
+      "weeks": "1",
+      "week": "2026-06-28"
     },
     {
       "rank": 10,
-      "title": "The Contractor",
+      "title": "Night at the Museum",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     }
   ],
   "tv": [
@@ -76,73 +76,73 @@
       "rank": 1,
       "title": "I Will Find You",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-21"
+      "weeks": "2",
+      "week": "2026-06-28"
     },
     {
       "rank": 2,
-      "title": "Outlast: The Jungle",
+      "title": "Avatar: The Last Airbender",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-06-21"
+      "weeks": "1",
+      "week": "2026-06-28"
     },
     {
       "rank": 3,
-      "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
+      "title": "Oasis",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 4,
-      "title": "Sweet Magnolias",
+      "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 5,
-      "title": "The Polygamist",
+      "title": "WWE Night of Champions",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 6,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 7,
-      "title": "Michael Jackson: The Verdict",
+      "title": "Outlast: The Jungle",
       "category": "TV",
       "weeks": "3",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 8,
-      "title": "Teach You a Lesson",
+      "title": "Sweet Magnolias",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-06-21"
+      "weeks": "3",
+      "week": "2026-06-28"
     },
     {
       "rank": 9,
-      "title": "WWE SmackDown",
+      "title": "Agent Kim Reactivated",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     },
     {
       "rank": 10,
-      "title": "The Four Seasons",
+      "title": "Michael Jackson: The Verdict",
       "category": "TV",
       "weeks": "4",
-      "week": "2026-06-21"
+      "week": "2026-06-28"
     }
   ],
-  "week": "2026-06-21",
-  "fetched_at": "2026-06-30T16:23:35.408050+00:00"
+  "week": "2026-06-28",
+  "fetched_at": "2026-07-07T16:32:29.247485+00:00"
 }
