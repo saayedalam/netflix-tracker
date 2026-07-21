@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Voicemails for Isabelle",
+      "title": "Shipwrecked: Nightmare at Sea",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-06-28"
+      "weeks": "1",
+      "week": "2026-07-12"
     },
     {
       "rank": 2,
-      "title": "Little Brother",
+      "title": "The Hustle",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-28"
+      "weeks": "4",
+      "week": "2026-07-12"
     },
     {
       "rank": 3,
-      "title": "Maternal Instinct",
+      "title": "Enola Holmes 3",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-06-28"
+      "weeks": "2",
+      "week": "2026-07-12"
     },
     {
       "rank": 4,
-      "title": "The Vault",
+      "title": "Voicemails for Isabelle",
       "category": "Films",
-      "weeks": "5",
-      "week": "2026-06-28"
+      "weeks": "4",
+      "week": "2026-07-12"
     },
     {
       "rank": 5,
-      "title": "PokÃ©mon Detective Pikachu",
+      "title": "Summer Camp",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-28"
+      "weeks": "2",
+      "week": "2026-07-12"
     },
     {
       "rank": 6,
-      "title": "Borderlands",
+      "title": "Something in the Water",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-28"
+      "weeks": "2",
+      "week": "2026-07-12"
     },
     {
       "rank": 7,
-      "title": "Black Mass",
+      "title": "Little Brother",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-28"
+      "weeks": "3",
+      "week": "2026-07-12"
     },
     {
       "rank": 8,
-      "title": "Office Romance",
+      "title": "Into the Blue",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-06-28"
+      "weeks": "1",
+      "week": "2026-07-12"
     },
     {
       "rank": 9,
-      "title": "Father Figures",
+      "title": "Face/Off",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-06-28"
+      "week": "2026-07-12"
     },
     {
       "rank": 10,
-      "title": "Night at the Museum",
+      "title": "Despicable Me 4",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-06-28"
+      "weeks": "8",
+      "week": "2026-07-12"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "I Will Find You",
+      "title": "Worst Neighbor Ever",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-06-28"
+      "week": "2026-07-12"
     },
     {
       "rank": 2,
-      "title": "Avatar: The Last Airbender",
+      "title": "I Will Find You",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-28"
+      "weeks": "4",
+      "week": "2026-07-12"
     },
     {
       "rank": 3,
-      "title": "Oasis",
+      "title": "Little House on the Prairie",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-28"
+      "week": "2026-07-12"
     },
     {
       "rank": 4,
-      "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
-      "category": "TV",
-      "weeks": "2",
-      "week": "2026-06-28"
-    },
-    {
-      "rank": 5,
-      "title": "WWE Night of Champions",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-28"
-    },
-    {
-      "rank": 6,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-06-28"
+      "week": "2026-07-12"
+    },
+    {
+      "rank": 5,
+      "title": "Jeff Arcuri: Nice to Meet You",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-07-12"
+    },
+    {
+      "rank": 6,
+      "title": "WWE SmackDown",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-07-12"
     },
     {
       "rank": 7,
-      "title": "Outlast: The Jungle",
+      "title": "Salish & Jordan Matter",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-06-28"
+      "weeks": "2",
+      "week": "2026-07-12"
     },
     {
       "rank": 8,
-      "title": "Sweet Magnolias",
+      "title": "Avatar: The Last Airbender",
       "category": "TV",
       "weeks": "3",
-      "week": "2026-06-28"
+      "week": "2026-07-12"
     },
     {
       "rank": 9,
       "title": "Agent Kim Reactivated",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-06-28"
+      "weeks": "3",
+      "week": "2026-07-12"
     },
     {
       "rank": 10,
-      "title": "Michael Jackson: The Verdict",
+      "title": "Ms. Rachel",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-06-28"
+      "weeks": "26",
+      "week": "2026-07-12"
     }
   ],
-  "week": "2026-06-28",
-  "fetched_at": "2026-07-07T16:32:29.247485+00:00"
+  "week": "2026-07-12",
+  "fetched_at": "2026-07-21T15:44:45.753259+00:00"
 }
