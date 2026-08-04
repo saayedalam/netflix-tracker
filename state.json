@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Shipwrecked: Nightmare at Sea",
+      "title": "A Toxic Love Story",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-07-19"
+      "weeks": "1",
+      "week": "2026-07-26"
     },
     {
       "rank": 2,
-      "title": "Speak No Evil",
+      "title": "72 HOURS",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-07-19"
+      "week": "2026-07-26"
     },
     {
       "rank": 3,
-      "title": "Let Him Go",
+      "title": "Elize: Shadows of a Woman",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-07-19"
+      "weeks": "1",
+      "week": "2026-07-26"
     },
     {
       "rank": 4,
-      "title": "Desire",
+      "title": "Forever My Girl",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-07-19"
+      "weeks": "2",
+      "week": "2026-07-26"
     },
     {
       "rank": 5,
-      "title": "Forever My Girl",
+      "title": "Desire",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-07-19"
+      "weeks": "2",
+      "week": "2026-07-26"
     },
     {
       "rank": 6,
-      "title": "Death on the Nile",
+      "title": "Venom: The Last Dance",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-07-19"
+      "week": "2026-07-26"
     },
     {
       "rank": 7,
-      "title": "Voicemails for Isabelle",
+      "title": "Companion",
       "category": "Films",
-      "weeks": "5",
-      "week": "2026-07-19"
+      "weeks": "1",
+      "week": "2026-07-26"
     },
     {
       "rank": 8,
-      "title": "The Hustle",
+      "title": "Ghost Town",
       "category": "Films",
-      "weeks": "5",
-      "week": "2026-07-19"
+      "weeks": "1",
+      "week": "2026-07-26"
     },
     {
       "rank": 9,
-      "title": "Ikka",
+      "title": "23 000 Lives",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-07-19"
+      "week": "2026-07-26"
     },
     {
       "rank": 10,
-      "title": "Enola Holmes 3",
+      "title": "Voicemails for Isabelle",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-07-19"
+      "weeks": "6",
+      "week": "2026-07-26"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Little House on the Prairie",
+      "title": "The Hawk",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-07-19"
+      "week": "2026-07-26"
     },
     {
       "rank": 2,
-      "title": "The Hawk",
+      "title": "The Ultimatum: Marry or Move On",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-07-19"
+      "weeks": "2",
+      "week": "2026-07-26"
     },
     {
       "rank": 3,
-      "title": "I Will Find You",
+      "title": "Ransom Canyon",
       "category": "TV",
-      "weeks": "5",
-      "week": "2026-07-19"
+      "weeks": "1",
+      "week": "2026-07-26"
     },
     {
       "rank": 4,
-      "title": "The Ultimatum: Marry or Move On",
+      "title": "I Will Find You",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-07-19"
+      "weeks": "6",
+      "week": "2026-07-26"
     },
     {
       "rank": 5,
-      "title": "Worst Neighbor Ever",
+      "title": "Elite Force",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-07-19"
+      "weeks": "1",
+      "week": "2026-07-26"
     },
     {
       "rank": 6,
-      "title": "Raw",
+      "title": "Little House on the Prairie",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-07-19"
+      "weeks": "3",
+      "week": "2026-07-26"
     },
     {
       "rank": 7,
-      "title": "JosÃ© Totoy 3",
+      "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-07-19"
+      "week": "2026-07-26"
     },
     {
       "rank": 8,
-      "title": "Agent Kim Reactivated",
+      "title": "WWE SmackDown",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-07-19"
+      "weeks": "1",
+      "week": "2026-07-26"
     },
     {
       "rank": 9,
-      "title": "Salish & Jordan Matter",
+      "title": "Worst Neighbor Ever",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-07-19"
+      "weeks": "4",
+      "week": "2026-07-26"
     },
     {
       "rank": 10,
-      "title": "Avatar: The Last Airbender",
+      "title": "My Daughter's Father",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-07-19"
+      "weeks": "1",
+      "week": "2026-07-26"
     }
   ],
-  "week": "2026-07-19",
-  "fetched_at": "2026-07-28T16:05:15.516144+00:00"
+  "week": "2026-07-26",
+  "fetched_at": "2026-08-04T16:11:57.134395+00:00"
 }
