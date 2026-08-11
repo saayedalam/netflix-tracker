@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "A Toxic Love Story",
+      "title": "72 HOURS",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-07-26"
+      "weeks": "2",
+      "week": "2026-08-02"
     },
     {
       "rank": 2,
-      "title": "72 HOURS",
+      "title": "A Toxic Love Story",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-07-26"
+      "weeks": "2",
+      "week": "2026-08-02"
     },
     {
       "rank": 3,
-      "title": "Elize: Shadows of a Woman",
+      "title": "Venom: The Last Dance",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-07-26"
+      "weeks": "2",
+      "week": "2026-08-02"
     },
     {
       "rank": 4,
-      "title": "Forever My Girl",
+      "title": "Ghost Town",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-07-26"
+      "week": "2026-08-02"
     },
     {
       "rank": 5,
-      "title": "Desire",
+      "title": "Elize: Shadows of a Woman",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-07-26"
+      "week": "2026-08-02"
     },
     {
       "rank": 6,
-      "title": "Venom: The Last Dance",
+      "title": "The Wild Robot",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-07-26"
+      "week": "2026-08-02"
     },
     {
       "rank": 7,
-      "title": "Companion",
+      "title": "Max",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-07-26"
+      "week": "2026-08-02"
     },
     {
       "rank": 8,
-      "title": "Ghost Town",
+      "title": "The Truthers",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-07-26"
+      "week": "2026-08-02"
     },
     {
       "rank": 9,
-      "title": "23 000 Lives",
+      "title": "The Debt Collector",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-07-26"
+      "week": "2026-08-02"
     },
     {
       "rank": 10,
       "title": "Voicemails for Isabelle",
       "category": "Films",
-      "weeks": "6",
-      "week": "2026-07-26"
+      "weeks": "7",
+      "week": "2026-08-02"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "The Hawk",
+      "title": "The Idaho Murders: College Nightmare",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-07-26"
+      "weeks": "1",
+      "week": "2026-08-02"
     },
     {
       "rank": 2,
-      "title": "The Ultimatum: Marry or Move On",
+      "title": "Ransom Canyon",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-07-26"
+      "week": "2026-08-02"
     },
     {
       "rank": 3,
-      "title": "Ransom Canyon",
+      "title": "The Bombing of Pan Am 103",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-07-26"
+      "week": "2026-08-02"
     },
     {
       "rank": 4,
-      "title": "I Will Find You",
+      "title": "WWE SummerSlam",
       "category": "TV",
-      "weeks": "6",
-      "week": "2026-07-26"
+      "weeks": "1",
+      "week": "2026-08-02"
     },
     {
       "rank": 5,
-      "title": "Elite Force",
+      "title": "The Hawk",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-07-26"
+      "weeks": "3",
+      "week": "2026-08-02"
     },
     {
       "rank": 6,
-      "title": "Little House on the Prairie",
+      "title": "WWE SummerSlam",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-07-26"
+      "weeks": "1",
+      "week": "2026-08-02"
     },
     {
       "rank": 7,
-      "title": "Raw",
+      "title": "I Will Find You",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-07-26"
+      "weeks": "7",
+      "week": "2026-08-02"
     },
     {
       "rank": 8,
-      "title": "WWE SmackDown",
+      "title": "Elite Force",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-07-26"
+      "weeks": "2",
+      "week": "2026-08-02"
     },
     {
       "rank": 9,
-      "title": "Worst Neighbor Ever",
+      "title": "Raw",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-07-26"
+      "weeks": "1",
+      "week": "2026-08-02"
     },
     {
       "rank": 10,
       "title": "My Daughter's Father",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-07-26"
+      "weeks": "2",
+      "week": "2026-08-02"
     }
   ],
-  "week": "2026-07-26",
-  "fetched_at": "2026-08-04T16:11:57.134395+00:00"
+  "week": "2026-08-02",
+  "fetched_at": "2026-08-11T14:57:55.144110+00:00"
 }
