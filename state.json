@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "The Last House",
+      "title": "Cellar Door",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-08-16"
+      "week": "2026-08-23"
     },
     {
       "rank": 2,
-      "title": "Kraven the Hunter",
+      "title": "Don't Say Good Luck",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-08-16"
+      "weeks": "2",
+      "week": "2026-08-23"
     },
     {
       "rank": 3,
-      "title": "Don't Say Good Luck",
+      "title": "Kraven the Hunter",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-08-16"
+      "weeks": "2",
+      "week": "2026-08-23"
     },
     {
       "rank": 4,
-      "title": "Extinction",
+      "title": "Facing El Chapo",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-08-16"
+      "week": "2026-08-23"
     },
     {
       "rank": 5,
-      "title": "Going in Style",
+      "title": "Freefall: A Reckoning for Boeing",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-08-16"
+      "week": "2026-08-23"
     },
     {
       "rank": 6,
-      "title": "Cellar Door",
+      "title": "The Covenant",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-08-16"
+      "weeks": "2",
+      "week": "2026-08-23"
     },
     {
       "rank": 7,
-      "title": "Premonition",
+      "title": "The Mule",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-08-16"
+      "weeks": "1",
+      "week": "2026-08-23"
     },
     {
       "rank": 8,
-      "title": "The Covenant",
+      "title": "The Last House",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-08-16"
+      "weeks": "3",
+      "week": "2026-08-23"
     },
     {
       "rank": 9,
-      "title": "72 HOURS",
+      "title": "Going in Style",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-08-16"
+      "weeks": "2",
+      "week": "2026-08-23"
     },
     {
       "rank": 10,
-      "title": "Spider-Man: Far from Home",
+      "title": "72 HOURS",
       "category": "Films",
-      "weeks": "6",
-      "week": "2026-08-16"
+      "weeks": "5",
+      "week": "2026-08-23"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "My Life With the Walter Boys",
+      "title": "Outer Banks",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-08-16"
+      "weeks": "1",
+      "week": "2026-08-23"
     },
     {
       "rank": 2,
-      "title": "Conversations with a Killer: The Charles Manson Tapes",
+      "title": "Tires",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-08-16"
+      "weeks": "2",
+      "week": "2026-08-23"
     },
     {
       "rank": 3,
-      "title": "The Idaho Murders: College Nightmare",
+      "title": "Conversations with a Killer: The Charles Manson Tapes",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-08-16"
+      "weeks": "2",
+      "week": "2026-08-23"
     },
     {
       "rank": 4,
-      "title": "Let's Marry Harry",
+      "title": "Blood Sacrifice",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-08-16"
+      "weeks": "1",
+      "week": "2026-08-23"
     },
     {
       "rank": 5,
-      "title": "Tires",
+      "title": "My Life With the Walter Boys",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-08-16"
+      "weeks": "3",
+      "week": "2026-08-23"
     },
     {
       "rank": 6,
-      "title": "Raw",
+      "title": "My Brilliant Career",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-08-16"
+      "week": "2026-08-23"
     },
     {
       "rank": 7,
-      "title": "WWE SmackDown",
+      "title": "Love Is Blind: UK",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-08-16"
+      "week": "2026-08-23"
     },
     {
       "rank": 8,
-      "title": "Camp CrunchLabs",
+      "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-08-16"
+      "week": "2026-08-23"
     },
     {
       "rank": 9,
-      "title": "The Bombing of Pan Am 103",
+      "title": "WWE SmackDown",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-08-16"
+      "weeks": "1",
+      "week": "2026-08-23"
     },
     {
       "rank": 10,
-      "title": "Operation Safed Sagar: The Highest Air Force Mission",
+      "title": "The Idaho Murders: College Nightmare",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-08-16"
+      "weeks": "4",
+      "week": "2026-08-23"
     }
   ],
-  "week": "2026-08-16",
-  "fetched_at": "2026-08-25T14:46:23.840338+00:00"
+  "week": "2026-08-23",
+  "fetched_at": "2026-09-01T17:39:33.742503+00:00"
 }
