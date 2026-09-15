@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Cellar Door",
+      "title": "The Whisper Man",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-08-23"
+      "week": "2026-09-06"
     },
     {
       "rank": 2,
-      "title": "Don't Say Good Luck",
+      "title": "The Secret Woman",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-08-23"
+      "week": "2026-09-06"
     },
     {
       "rank": 3,
-      "title": "Kraven the Hunter",
+      "title": "The Magnificent Seven",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-08-23"
+      "week": "2026-09-06"
     },
     {
       "rank": 4,
-      "title": "Facing El Chapo",
+      "title": "Turning Point: Generation 9/11",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-08-23"
+      "week": "2026-09-06"
     },
     {
       "rank": 5,
-      "title": "Freefall: A Reckoning for Boeing",
+      "title": "You're Dating a Narcissist!",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-08-23"
+      "weeks": "2",
+      "week": "2026-09-06"
     },
     {
       "rank": 6,
-      "title": "The Covenant",
+      "title": "Untold Raygun: Breaking Badly",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-08-23"
+      "weeks": "1",
+      "week": "2026-09-06"
     },
     {
       "rank": 7,
-      "title": "The Mule",
+      "title": "Gandhari",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-08-23"
+      "week": "2026-09-06"
     },
     {
       "rank": 8,
-      "title": "The Last House",
+      "title": "Nine to Five",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-08-23"
+      "weeks": "1",
+      "week": "2026-09-06"
     },
     {
       "rank": 9,
-      "title": "Going in Style",
+      "title": "Alpha",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-08-23"
+      "weeks": "1",
+      "week": "2026-09-06"
     },
     {
       "rank": 10,
-      "title": "72 HOURS",
+      "title": "One of Them Days",
       "category": "Films",
-      "weeks": "5",
-      "week": "2026-08-23"
+      "weeks": "1",
+      "week": "2026-09-06"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Outer Banks",
+      "title": "Death of the Pastor's Wife",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-08-23"
+      "weeks": "2",
+      "week": "2026-09-06"
     },
     {
       "rank": 2,
-      "title": "Tires",
+      "title": "Instadocs: The Decoy Plane",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-08-23"
+      "weeks": "1",
+      "week": "2026-09-06"
     },
     {
       "rank": 3,
-      "title": "Conversations with a Killer: The Charles Manson Tapes",
+      "title": "The Gentlemen",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-08-23"
+      "weeks": "1",
+      "week": "2026-09-06"
     },
     {
       "rank": 4,
-      "title": "Blood Sacrifice",
+      "title": "Beauty in Black",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-08-23"
+      "weeks": "2",
+      "week": "2026-09-06"
     },
     {
       "rank": 5,
-      "title": "My Life With the Walter Boys",
+      "title": "Leanne",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-08-23"
+      "weeks": "1",
+      "week": "2026-09-06"
     },
     {
       "rank": 6,
-      "title": "My Brilliant Career",
+      "title": "Earle Meets World",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-08-23"
+      "week": "2026-09-06"
     },
     {
       "rank": 7,
-      "title": "Love Is Blind: UK",
+      "title": "Outer Banks",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-08-23"
+      "weeks": "3",
+      "week": "2026-09-06"
     },
     {
       "rank": 8,
-      "title": "Raw",
+      "title": "Danny Go!",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-08-23"
+      "weeks": "2",
+      "week": "2026-09-06"
     },
     {
       "rank": 9,
-      "title": "WWE SmackDown",
+      "title": "Escaping Polygamy",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-08-23"
+      "week": "2026-09-06"
     },
     {
       "rank": 10,
-      "title": "The Idaho Murders: College Nightmare",
+      "title": "Love Is Blind: UK",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-08-23"
+      "weeks": "3",
+      "week": "2026-09-06"
     }
   ],
-  "week": "2026-08-23",
-  "fetched_at": "2026-09-01T17:39:33.742503+00:00"
+  "week": "2026-09-06",
+  "fetched_at": "2026-09-15T17:58:55.273415+00:00"
 }
