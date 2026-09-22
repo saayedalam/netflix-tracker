@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "The Whisper Man",
+      "title": "Why Did I Get Married Again?",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-09-06"
+      "weeks": "1",
+      "week": "2026-09-13"
     },
     {
       "rank": 2,
-      "title": "The Secret Woman",
+      "title": "The Whisper Man",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-09-06"
+      "weeks": "3",
+      "week": "2026-09-13"
     },
     {
       "rank": 3,
-      "title": "The Magnificent Seven",
+      "title": "Turning Point: Generation 9/11",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-09-06"
+      "week": "2026-09-13"
     },
     {
       "rank": 4,
-      "title": "Turning Point: Generation 9/11",
+      "title": "Along Came a Spider",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-06"
+      "week": "2026-09-13"
     },
     {
       "rank": 5,
-      "title": "You're Dating a Narcissist!",
+      "title": "The Alto Knights",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-09-06"
+      "weeks": "1",
+      "week": "2026-09-13"
     },
     {
       "rank": 6,
-      "title": "Untold Raygun: Breaking Badly",
+      "title": "Untold Mr. T: I Pity The Fool",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-06"
+      "week": "2026-09-13"
     },
     {
       "rank": 7,
-      "title": "Gandhari",
+      "title": "The Secret Woman",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-09-06"
+      "weeks": "3",
+      "week": "2026-09-13"
     },
     {
       "rank": 8,
-      "title": "Nine to Five",
+      "title": "Blood Work",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-06"
+      "week": "2026-09-13"
     },
     {
       "rank": 9,
-      "title": "Alpha",
+      "title": "Gandhari",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-09-06"
+      "weeks": "2",
+      "week": "2026-09-13"
     },
     {
       "rank": 10,
-      "title": "One of Them Days",
+      "title": "The Sixth Sense",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-06"
+      "week": "2026-09-13"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Death of the Pastor's Wife",
+      "title": "The Gentlemen",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-09-06"
+      "week": "2026-09-13"
     },
     {
       "rank": 2,
       "title": "Instadocs: The Decoy Plane",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-06"
+      "weeks": "2",
+      "week": "2026-09-13"
     },
     {
       "rank": 3,
-      "title": "The Gentlemen",
+      "title": "Death of the Pastor's Wife",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-06"
+      "weeks": "3",
+      "week": "2026-09-13"
     },
     {
       "rank": 4,
-      "title": "Beauty in Black",
+      "title": "Crew Girl",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-09-06"
+      "weeks": "1",
+      "week": "2026-09-13"
     },
     {
       "rank": 5,
-      "title": "Leanne",
+      "title": "Earle Meets World",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-06"
+      "weeks": "2",
+      "week": "2026-09-13"
     },
     {
       "rank": 6,
-      "title": "Earle Meets World",
+      "title": "The Gentlemen",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-06"
+      "weeks": "9",
+      "week": "2026-09-13"
     },
     {
       "rank": 7,
-      "title": "Outer Banks",
+      "title": "Raw",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-09-06"
+      "weeks": "1",
+      "week": "2026-09-13"
     },
     {
       "rank": 8,
-      "title": "Danny Go!",
+      "title": "The Perfect Lie",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-09-06"
+      "weeks": "1",
+      "week": "2026-09-13"
     },
     {
       "rank": 9,
-      "title": "Escaping Polygamy",
+      "title": "WWE SmackDown",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-09-06"
+      "week": "2026-09-13"
     },
     {
       "rank": 10,
-      "title": "Love Is Blind: UK",
+      "title": "Danny Go!",
       "category": "TV",
       "weeks": "3",
-      "week": "2026-09-06"
+      "week": "2026-09-13"
     }
   ],
-  "week": "2026-09-06",
-  "fetched_at": "2026-09-15T17:58:55.273415+00:00"
+  "week": "2026-09-13",
+  "fetched_at": "2026-09-22T17:58:33.234564+00:00"
 }
