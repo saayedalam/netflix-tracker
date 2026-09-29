@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Why Did I Get Married Again?",
+      "title": "UNABOMBER",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-13"
+      "week": "2026-09-27"
     },
     {
       "rank": 2,
-      "title": "The Whisper Man",
+      "title": "A Minecraft Movie",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-09-13"
+      "weeks": "2",
+      "week": "2026-09-27"
     },
     {
       "rank": 3,
-      "title": "Turning Point: Generation 9/11",
+      "title": "40 Dates and 40 Nights",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-09-13"
+      "weeks": "1",
+      "week": "2026-09-27"
     },
     {
       "rank": 4,
-      "title": "Along Came a Spider",
+      "title": "Best of the Best",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-09-13"
+      "weeks": "2",
+      "week": "2026-09-27"
     },
     {
       "rank": 5,
-      "title": "The Alto Knights",
+      "title": "Hot Pursuit",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-13"
+      "week": "2026-09-27"
     },
     {
       "rank": 6,
-      "title": "Untold Mr. T: I Pity The Fool",
+      "title": "Never Let Go",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-13"
+      "week": "2026-09-27"
     },
     {
       "rank": 7,
-      "title": "The Secret Woman",
+      "title": "The Matchmaker's Playbook",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-09-13"
+      "weeks": "1",
+      "week": "2026-09-27"
     },
     {
       "rank": 8,
-      "title": "Blood Work",
+      "title": "The Whisper Man",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-09-13"
+      "weeks": "5",
+      "week": "2026-09-27"
     },
     {
       "rank": 9,
-      "title": "Gandhari",
+      "title": "The Man in the Iron Mask",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-09-13"
+      "weeks": "1",
+      "week": "2026-09-27"
     },
     {
       "rank": 10,
-      "title": "The Sixth Sense",
+      "title": "Bagman",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-13"
+      "week": "2026-09-27"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "The Gentlemen",
+      "title": "Monster: The Lizzie Borden Story",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-09-13"
+      "week": "2026-09-27"
     },
     {
       "rank": 2,
-      "title": "Instadocs: The Decoy Plane",
+      "title": "Wonka's The Golden Ticket",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-09-13"
+      "weeks": "1",
+      "week": "2026-09-27"
     },
     {
       "rank": 3,
-      "title": "Death of the Pastor's Wife",
+      "title": "Not a Stranger",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-09-13"
+      "weeks": "1",
+      "week": "2026-09-27"
     },
     {
       "rank": 4,
       "title": "Crew Girl",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-13"
+      "weeks": "3",
+      "week": "2026-09-27"
     },
     {
       "rank": 5,
-      "title": "Earle Meets World",
+      "title": "The Gentlemen",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-09-13"
+      "weeks": "4",
+      "week": "2026-09-27"
     },
     {
       "rank": 6,
-      "title": "The Gentlemen",
-      "category": "TV",
-      "weeks": "9",
-      "week": "2026-09-13"
-    },
-    {
-      "rank": 7,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-09-13"
+      "week": "2026-09-27"
     },
     {
-      "rank": 8,
-      "title": "The Perfect Lie",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-13"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "WWE SmackDown",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-09-13"
+      "week": "2026-09-27"
+    },
+    {
+      "rank": 8,
+      "title": "Dance Moms",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-09-27"
+    },
+    {
+      "rank": 9,
+      "title": "Gabby's Dollhouse",
+      "category": "TV",
+      "weeks": "2",
+      "week": "2026-09-27"
     },
     {
       "rank": 10,
-      "title": "Danny Go!",
+      "title": "Shaque: Trust No One",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-09-13"
+      "weeks": "1",
+      "week": "2026-09-27"
     }
   ],
-  "week": "2026-09-13",
-  "fetched_at": "2026-09-22T17:58:33.234564+00:00"
+  "week": "2026-09-27",
+  "fetched_at": "2026-09-29T19:09:43.832350+00:00"
 }
