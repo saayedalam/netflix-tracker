@@ -4,145 +4,145 @@
       "rank": 1,
       "title": "UNABOMBER",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-09-27"
+      "weeks": "2",
+      "week": "2026-10-04"
     },
     {
       "rank": 2,
-      "title": "A Minecraft Movie",
+      "title": "The Widower: 'Til Death Do Us Part",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-09-27"
+      "weeks": "1",
+      "week": "2026-10-04"
     },
     {
       "rank": 3,
       "title": "40 Dates and 40 Nights",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-09-27"
+      "weeks": "2",
+      "week": "2026-10-04"
     },
     {
       "rank": 4,
-      "title": "Best of the Best",
+      "title": "A Minecraft Movie",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-09-27"
+      "weeks": "3",
+      "week": "2026-10-04"
     },
     {
       "rank": 5,
-      "title": "Hot Pursuit",
+      "title": "Armor",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-27"
+      "week": "2026-10-04"
     },
     {
       "rank": 6,
-      "title": "Never Let Go",
+      "title": "The Thicket",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-27"
+      "week": "2026-10-04"
     },
     {
       "rank": 7,
-      "title": "The Matchmaker's Playbook",
+      "title": "The Naked Gun",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-27"
+      "week": "2026-10-04"
     },
     {
       "rank": 8,
-      "title": "The Whisper Man",
+      "title": "Doing Life",
       "category": "Films",
-      "weeks": "5",
-      "week": "2026-09-27"
+      "weeks": "1",
+      "week": "2026-10-04"
     },
     {
       "rank": 9,
-      "title": "The Man in the Iron Mask",
+      "title": "Bagman",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-09-27"
+      "weeks": "2",
+      "week": "2026-10-04"
     },
     {
       "rank": 10,
-      "title": "Bagman",
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-09-27"
+      "week": "2026-10-04"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Monster: The Lizzie Borden Story",
+      "title": "East of Eden",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-09-27"
+      "weeks": "1",
+      "week": "2026-10-04"
     },
     {
       "rank": 2,
       "title": "Wonka's The Golden Ticket",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-27"
+      "weeks": "2",
+      "week": "2026-10-04"
     },
     {
       "rank": 3,
-      "title": "Not a Stranger",
+      "title": "Monster: The Lizzie Borden Story",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-27"
+      "weeks": "3",
+      "week": "2026-10-04"
     },
     {
       "rank": 4,
-      "title": "Crew Girl",
-      "category": "TV",
-      "weeks": "3",
-      "week": "2026-09-27"
-    },
-    {
-      "rank": 5,
-      "title": "The Gentlemen",
-      "category": "TV",
-      "weeks": "4",
-      "week": "2026-09-27"
-    },
-    {
-      "rank": 6,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-09-27"
+      "week": "2026-10-04"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "LEGO ONE PIECE",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-10-04"
+    },
+    {
+      "rank": 6,
       "title": "WWE SmackDown",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-09-27"
+      "week": "2026-10-04"
+    },
+    {
+      "rank": 7,
+      "title": "A Different World",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-10-04"
     },
     {
       "rank": 8,
-      "title": "Dance Moms",
+      "title": "The Gentlemen",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-27"
+      "weeks": "5",
+      "week": "2026-10-04"
     },
     {
       "rank": 9,
-      "title": "Gabby's Dollhouse",
+      "title": "Ghosts",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-09-27"
+      "weeks": "1",
+      "week": "2026-10-04"
     },
     {
       "rank": 10,
-      "title": "Shaque: Trust No One",
+      "title": "Crew Girl",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-09-27"
+      "weeks": "4",
+      "week": "2026-10-04"
     }
   ],
-  "week": "2026-09-27",
-  "fetched_at": "2026-09-29T19:09:43.832350+00:00"
+  "week": "2026-10-04",
+  "fetched_at": "2026-10-06T19:19:46.151659+00:00"
 }
