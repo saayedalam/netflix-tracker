@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "Animals",
+      "title": "The Addams Family",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-10-18"
+      "week": "2026-11-01"
     },
     {
       "rank": 2,
-      "title": "The Gift",
+      "title": "Collision Course",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-10-18"
+      "weeks": "1",
+      "week": "2026-11-01"
     },
     {
       "rank": 3,
-      "title": "Tomb Raider",
+      "title": "Surviving Hurricane Otis",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-10-18"
+      "weeks": "2",
+      "week": "2026-11-01"
     },
     {
       "rank": 4,
-      "title": "UNABOMBER",
+      "title": "The Addams Family 2",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-10-18"
+      "weeks": "2",
+      "week": "2026-11-01"
     },
     {
       "rank": 5,
-      "title": "40 Dates and 40 Nights",
+      "title": "Animals",
       "category": "Films",
       "weeks": "4",
-      "week": "2026-10-18"
+      "week": "2026-11-01"
     },
     {
       "rank": 6,
-      "title": "Doing Life",
+      "title": "Gajab Raat",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-10-18"
+      "weeks": "2",
+      "week": "2026-11-01"
     },
     {
       "rank": 7,
-      "title": "Ben-Hur",
+      "title": "SCTV: The Greatest Show You've Never Heard Of",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-10-18"
+      "week": "2026-11-01"
     },
     {
       "rank": 8,
-      "title": "The Widower: 'Til Death Do Us Part",
+      "title": "Hubie Halloween",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-10-18"
+      "weeks": "2",
+      "week": "2026-11-01"
     },
     {
       "rank": 9,
-      "title": "Sinners",
+      "title": "Final Destination: Bloodlines",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-10-18"
+      "weeks": "1",
+      "week": "2026-11-01"
     },
     {
       "rank": 10,
-      "title": "A Minecraft Movie",
+      "title": "Money Train",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-10-18"
+      "weeks": "1",
+      "week": "2026-11-01"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Below",
+      "title": "The One About Matthew Perry",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-10-18"
+      "weeks": "1",
+      "week": "2026-11-01"
     },
     {
       "rank": 2,
-      "title": "Instadocs: AI Gone Wild",
+      "title": "Nobody Wants This",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-10-18"
+      "weeks": "2",
+      "week": "2026-11-01"
     },
     {
       "rank": 3,
       "title": "Love Is Blind",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-10-18"
+      "weeks": "3",
+      "week": "2026-11-01"
     },
     {
       "rank": 4,
-      "title": "The Diplomat",
+      "title": "Lupin",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-10-18"
+      "weeks": "2",
+      "week": "2026-11-01"
     },
     {
       "rank": 5,
-      "title": "East of Eden",
+      "title": "Instadocs: Jane Doe v. Cornell",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-10-18"
+      "weeks": "1",
+      "week": "2026-11-01"
     },
     {
       "rank": 6,
-      "title": "TYSON",
+      "title": "Below",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-10-18"
+      "weeks": "4",
+      "week": "2026-11-01"
     },
     {
       "rank": 7,
-      "title": "Is It Cake? Halloween",
+      "title": "The Diplomat",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-10-18"
+      "weeks": "3",
+      "week": "2026-11-01"
     },
     {
       "rank": 8,
-      "title": "The Trap",
+      "title": "The Fall of El Mayo",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-10-18"
+      "week": "2026-11-01"
     },
     {
       "rank": 9,
-      "title": "Raw",
+      "title": "Minimum Wage",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-10-18"
+      "week": "2026-11-01"
     },
     {
       "rank": 10,
-      "title": "Unforgettable",
+      "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-10-18"
+      "week": "2026-11-01"
     }
   ],
-  "week": "2026-10-18",
-  "fetched_at": "2026-10-27T19:15:36.345788+00:00"
+  "week": "2026-11-01",
+  "fetched_at": "2026-11-03T20:25:40.266682+00:00"
 }
