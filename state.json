@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "The Addams Family",
+      "title": "A Dog's Perfect Christmas",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-11-01"
+      "weeks": "1",
+      "week": "2026-11-08"
     },
     {
       "rank": 2,
-      "title": "Collision Course",
+      "title": "Final Destination: Bloodlines",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-11-01"
+      "weeks": "2",
+      "week": "2026-11-08"
     },
     {
       "rank": 3,
-      "title": "Surviving Hurricane Otis",
+      "title": "The Hobbit: An Unexpected Journey",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-11-01"
+      "weeks": "1",
+      "week": "2026-11-08"
     },
     {
       "rank": 4,
-      "title": "The Addams Family 2",
+      "title": "Heist",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     },
     {
       "rank": 5,
-      "title": "Animals",
+      "title": "Collision Course",
       "category": "Films",
-      "weeks": "4",
-      "week": "2026-11-01"
+      "weeks": "2",
+      "week": "2026-11-08"
     },
     {
       "rank": 6,
-      "title": "Gajab Raat",
+      "title": "The Hobbit: The Desolation of Smaug",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-11-01"
+      "weeks": "1",
+      "week": "2026-11-08"
     },
     {
       "rank": 7,
-      "title": "SCTV: The Greatest Show You've Never Heard Of",
+      "title": "The Hobbit: The Battle of the Five Armies",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     },
     {
       "rank": 8,
-      "title": "Hubie Halloween",
+      "title": "The Holiday",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     },
     {
       "rank": 9,
-      "title": "Final Destination: Bloodlines",
+      "title": "SCTV: The Greatest Show You've Never Heard Of",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-11-01"
+      "weeks": "2",
+      "week": "2026-11-08"
     },
     {
       "rank": 10,
-      "title": "Money Train",
+      "title": "My Best Friend",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "The One About Matthew Perry",
+      "title": "Taken: Natalee Holloway",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     },
     {
       "rank": 2,
-      "title": "Nobody Wants This",
+      "title": "The One About Matthew Perry",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     },
     {
       "rank": 3,
-      "title": "Love Is Blind",
+      "title": "Nobody Wants This",
       "category": "TV",
       "weeks": "3",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     },
     {
       "rank": 4,
-      "title": "Lupin",
+      "title": "Love Is Blind",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-11-01"
+      "weeks": "4",
+      "week": "2026-11-08"
     },
     {
       "rank": 5,
-      "title": "Instadocs: Jane Doe v. Cornell",
+      "title": "A Couple of Lies",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     },
     {
       "rank": 6,
-      "title": "Below",
+      "title": "Black Doves",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-11-01"
+      "weeks": "1",
+      "week": "2026-11-08"
     },
     {
       "rank": 7,
-      "title": "The Diplomat",
+      "title": "Instadocs: Jane Doe v. Cornell",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-11-01"
+      "weeks": "2",
+      "week": "2026-11-08"
     },
     {
       "rank": 8,
-      "title": "The Fall of El Mayo",
+      "title": "Below",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-11-01"
+      "weeks": "5",
+      "week": "2026-11-08"
     },
     {
       "rank": 9,
-      "title": "Minimum Wage",
+      "title": "WWE Crown Jewel",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-11-01"
+      "week": "2026-11-08"
     },
     {
       "rank": 10,
-      "title": "Raw",
+      "title": "Lupin",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-11-01"
+      "weeks": "3",
+      "week": "2026-11-08"
     }
   ],
-  "week": "2026-11-01",
-  "fetched_at": "2026-11-03T20:25:40.266682+00:00"
+  "week": "2026-11-08",
+  "fetched_at": "2026-11-10T20:43:02.496998+00:00"
 }
