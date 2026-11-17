@@ -2,73 +2,73 @@
   "movies": [
     {
       "rank": 1,
-      "title": "A Dog's Perfect Christmas",
+      "title": "The Christmas Switch",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-08"
+      "week": "2026-11-15"
     },
     {
       "rank": 2,
-      "title": "Final Destination: Bloodlines",
+      "title": "A Dog's Perfect Christmas",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-11-08"
+      "week": "2026-11-15"
     },
     {
       "rank": 3,
-      "title": "The Hobbit: An Unexpected Journey",
+      "title": "Heartland",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-08"
+      "week": "2026-11-15"
     },
     {
       "rank": 4,
-      "title": "Heist",
+      "title": "Carolina Caroline",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-11-08"
+      "weeks": "1",
+      "week": "2026-11-15"
     },
     {
       "rank": 5,
-      "title": "Collision Course",
+      "title": "The Unthinkable Daughter",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-11-08"
+      "weeks": "1",
+      "week": "2026-11-15"
     },
     {
       "rank": 6,
-      "title": "The Hobbit: The Desolation of Smaug",
+      "title": "Never Surrender",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-08"
+      "week": "2026-11-15"
     },
     {
       "rank": 7,
-      "title": "The Hobbit: The Battle of the Five Armies",
+      "title": "Russell Brand: Open Secret",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-08"
+      "week": "2026-11-15"
     },
     {
       "rank": 8,
       "title": "The Holiday",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-11-08"
+      "weeks": "3",
+      "week": "2026-11-15"
     },
     {
       "rank": 9,
-      "title": "SCTV: The Greatest Show You've Never Heard Of",
+      "title": "187",
       "category": "Films",
-      "weeks": "2",
-      "week": "2026-11-08"
+      "weeks": "1",
+      "week": "2026-11-15"
     },
     {
       "rank": 10,
-      "title": "My Best Friend",
+      "title": "The Good Lawyer",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-08"
+      "week": "2026-11-15"
     }
   ],
   "tv": [
@@ -76,73 +76,73 @@
       "rank": 1,
       "title": "Taken: Natalee Holloway",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-11-08"
+      "weeks": "2",
+      "week": "2026-11-15"
     },
     {
       "rank": 2,
-      "title": "The One About Matthew Perry",
+      "title": "Black Doves",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-11-08"
+      "week": "2026-11-15"
     },
     {
       "rank": 3,
-      "title": "Nobody Wants This",
+      "title": "The Body",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-11-08"
+      "weeks": "1",
+      "week": "2026-11-15"
     },
     {
       "rank": 4,
-      "title": "Love Is Blind",
+      "title": "Doozie's Doghouse",
       "category": "TV",
-      "weeks": "4",
-      "week": "2026-11-08"
+      "weeks": "1",
+      "week": "2026-11-15"
     },
     {
       "rank": 5,
-      "title": "A Couple of Lies",
+      "title": "Nobody Wants This",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-11-08"
+      "weeks": "4",
+      "week": "2026-11-15"
     },
     {
       "rank": 6,
-      "title": "Black Doves",
+      "title": "North of North",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-11-08"
+      "week": "2026-11-15"
     },
     {
       "rank": 7,
-      "title": "Instadocs: Jane Doe v. Cornell",
+      "title": "Raw",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-11-08"
+      "weeks": "1",
+      "week": "2026-11-15"
     },
     {
       "rank": 8,
-      "title": "Below",
+      "title": "Black Doves",
       "category": "TV",
-      "weeks": "5",
-      "week": "2026-11-08"
+      "weeks": "6",
+      "week": "2026-11-15"
     },
     {
       "rank": 9,
-      "title": "WWE Crown Jewel",
+      "title": "The One About Matthew Perry",
       "category": "TV",
-      "weeks": "1",
-      "week": "2026-11-08"
+      "weeks": "3",
+      "week": "2026-11-15"
     },
     {
       "rank": 10,
-      "title": "Lupin",
+      "title": "Love Is Blind",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-11-08"
+      "weeks": "5",
+      "week": "2026-11-15"
     }
   ],
-  "week": "2026-11-08",
-  "fetched_at": "2026-11-10T20:43:02.496998+00:00"
+  "week": "2026-11-15",
+  "fetched_at": "2026-11-17T22:03:21.666784+00:00"
 }
