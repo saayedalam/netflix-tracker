@@ -2,147 +2,147 @@
   "movies": [
     {
       "rank": 1,
-      "title": "The Christmas Switch",
+      "title": "Guarding Stars",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-15"
+      "week": "2026-11-22"
     },
     {
       "rank": 2,
-      "title": "A Dog's Perfect Christmas",
+      "title": "Heartland",
       "category": "Films",
       "weeks": "2",
-      "week": "2026-11-15"
+      "week": "2026-11-22"
     },
     {
       "rank": 3,
-      "title": "Heartland",
+      "title": "Russell Brand: Open Secret",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-11-15"
+      "weeks": "2",
+      "week": "2026-11-22"
     },
     {
       "rank": 4,
-      "title": "Carolina Caroline",
+      "title": "Steps",
       "category": "Films",
       "weeks": "1",
-      "week": "2026-11-15"
+      "week": "2026-11-22"
     },
     {
       "rank": 5,
-      "title": "The Unthinkable Daughter",
+      "title": "Dr. Seuss' The Grinch",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-11-15"
+      "weeks": "24",
+      "week": "2026-11-22"
     },
     {
       "rank": 6,
-      "title": "Never Surrender",
+      "title": "The Christmas Switch",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-11-15"
+      "weeks": "2",
+      "week": "2026-11-22"
     },
     {
       "rank": 7,
-      "title": "Russell Brand: Open Secret",
+      "title": "Never Surrender",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-11-15"
+      "weeks": "2",
+      "week": "2026-11-22"
     },
     {
       "rank": 8,
-      "title": "The Holiday",
+      "title": "Christmas On The Ranch",
       "category": "Films",
-      "weeks": "3",
-      "week": "2026-11-15"
+      "weeks": "1",
+      "week": "2026-11-22"
     },
     {
       "rank": 9,
-      "title": "187",
+      "title": "The Boss Baby: Family Business",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-11-15"
+      "weeks": "3",
+      "week": "2026-11-22"
     },
     {
       "rank": 10,
-      "title": "The Good Lawyer",
+      "title": "The Unthinkable Daughter",
       "category": "Films",
-      "weeks": "1",
-      "week": "2026-11-15"
+      "weeks": "2",
+      "week": "2026-11-22"
     }
   ],
   "tv": [
     {
       "rank": 1,
-      "title": "Taken: Natalee Holloway",
+      "title": "The Body",
       "category": "TV",
       "weeks": "2",
-      "week": "2026-11-15"
+      "week": "2026-11-22"
     },
     {
       "rank": 2,
       "title": "Black Doves",
       "category": "TV",
-      "weeks": "2",
-      "week": "2026-11-15"
+      "weeks": "3",
+      "week": "2026-11-22"
     },
     {
       "rank": 3,
-      "title": "The Body",
+      "title": "The Law of Beasts",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-11-15"
+      "week": "2026-11-22"
     },
     {
       "rank": 4,
-      "title": "Doozie's Doghouse",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-11-15"
-    },
-    {
-      "rank": 5,
-      "title": "Nobody Wants This",
-      "category": "TV",
-      "weeks": "4",
-      "week": "2026-11-15"
-    },
-    {
-      "rank": 6,
-      "title": "North of North",
-      "category": "TV",
-      "weeks": "1",
-      "week": "2026-11-15"
-    },
-    {
-      "rank": 7,
       "title": "Raw",
       "category": "TV",
       "weeks": "1",
-      "week": "2026-11-15"
+      "week": "2026-11-22"
+    },
+    {
+      "rank": 5,
+      "title": "WWE SmackDown",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-11-22"
+    },
+    {
+      "rank": 6,
+      "title": "The Empress",
+      "category": "TV",
+      "weeks": "1",
+      "week": "2026-11-22"
+    },
+    {
+      "rank": 7,
+      "title": "Taken: Natalee Holloway",
+      "category": "TV",
+      "weeks": "3",
+      "week": "2026-11-22"
     },
     {
       "rank": 8,
-      "title": "Black Doves",
+      "title": "Cunk on Cinema",
       "category": "TV",
-      "weeks": "6",
-      "week": "2026-11-15"
+      "weeks": "1",
+      "week": "2026-11-22"
     },
     {
       "rank": 9,
-      "title": "The One About Matthew Perry",
+      "title": "Mike Ward: Modest",
       "category": "TV",
-      "weeks": "3",
-      "week": "2026-11-15"
+      "weeks": "1",
+      "week": "2026-11-22"
     },
     {
       "rank": 10,
-      "title": "Love Is Blind",
+      "title": "Nobody Wants This",
       "category": "TV",
       "weeks": "5",
-      "week": "2026-11-15"
+      "week": "2026-11-22"
     }
   ],
-  "week": "2026-11-15",
-  "fetched_at": "2026-11-17T22:03:21.666784+00:00"
+  "week": "2026-11-22",
+  "fetched_at": "2026-11-24T23:24:13.621285+00:00"
 }
